@@ -1,5 +1,5 @@
 === Satisfactory Server Backup ===
-Data: Thu Sep 11 10:20:01 AM UTC 2025
+Data: Thu Sep 11 11:20:01 AM UTC 2025
 Servidor: localhost
 Status do serviço: active
 Mundo principal: Ai meu Deus
@@ -10,10 +10,10 @@ Tamanho total: 11M
 
 === Lista de Saves ===
 Ai meu Deus _autosave_0_continue.sav - 1133539 bytes - 2025-09-11 06:00
-Ai meu Deus _autosave_0.sav - 1127256 bytes - 2025-09-11 10:00
+Ai meu Deus _autosave_0.sav - 1128108 bytes - 2025-09-11 10:45
 Ai meu Deus _autosave_1_continue.sav - 946812 bytes - 2025-09-10 06:00
-Ai meu Deus _autosave_1.sav - 1127626 bytes - 2025-09-11 10:15
-Ai meu Deus _autosave_2.sav - 1127134 bytes - 2025-09-11 09:45
+Ai meu Deus _autosave_1.sav - 1128429 bytes - 2025-09-11 11:00
+Ai meu Deus _autosave_2.sav - 1128835 bytes - 2025-09-11 11:15
 Ai meu Deus _continue.sav - 850787 bytes - 2025-09-09 06:00
 a.sav - 860678 bytes - 2025-09-09 20:49
 ServerSettings.7777.sav - 4978 bytes - 2025-09-09 03:03
@@ -23,9 +23,9 @@ teste.sav - 855666 bytes - 2025-09-09 16:32
 testeultimo.sav - 855681 bytes - 2025-09-09 17:07
 
 === Status do Sistema ===
-Uptime: up 2 days, 8 hours, 15 minutes
+Uptime: up 2 days, 9 hours, 15 minutes
 Uso de disco:
 /dev/sda        157G   22G  128G  15% /
 
 === Últimos Logs de Save ===
-Sep 11 09:45:55 localhost FactoryServer.sh[63762]: [2025.09.11-09.45.55:603][133]LogGame: World Serialization (save): 0.582 seconds (game thread)
+Sep 11 10:50:52 localhost FactoryServer.sh[63762]: [2025.09.11-10.45.56:400][807]LogGame: World Serialization (save): 0.609 seconds (game thread)
