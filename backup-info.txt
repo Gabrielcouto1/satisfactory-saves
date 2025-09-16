@@ -1,12 +1,12 @@
 === Satisfactory Server Backup ===
-Data: Tue Sep 16 05:20:01 AM UTC 2025
+Data: Tue Sep 16 06:20:01 AM UTC 2025
 Servidor: localhost
 Status do serviço: active
 Mundo principal: Ai meu Deus
 
 === Estatísticas dos Saves ===
-Total de arquivos .sav: 20
-Tamanho total: 26M
+Total de arquivos .sav: 21
+Tamanho total: 28M
 
 === Lista de Saves ===
 Ai meu Deus _autosave_0_continue.sav - 1133539 bytes - 2025-09-11 06:00
@@ -16,13 +16,14 @@ Ai meu Deus _autosave_1.sav - 1132767 bytes - 2025-09-11 15:16
 Ai meu Deus _autosave_2.sav - 1132595 bytes - 2025-09-11 14:55
 Ai meu Deus _continue.sav - 850787 bytes - 2025-09-09 06:00
 a.sav - 860678 bytes - 2025-09-09 20:49
-Fabriquetas_autosave_0.sav - 2359586 bytes - 2025-09-16 04:54
-Fabriquetas_autosave_1.sav - 2359238 bytes - 2025-09-16 05:09
-Fabriquetas_autosave_2.sav - 2359988 bytes - 2025-09-16 04:39
+Fabriquetas_autosave_0.sav - 2360316 bytes - 2025-09-16 05:39
+Fabriquetas_autosave_1.sav - 2360166 bytes - 2025-09-16 05:54
+Fabriquetas_autosave_2.sav - 2358720 bytes - 2025-09-16 06:15
 Fabriquetas_continue-09.13.25-06.00.00.sav - 1555586 bytes - 2025-09-13 06:00
 Fabriquetas_continue-09.14.25-06.00.01.sav - 1768786 bytes - 2025-09-14 06:00
 Fabriquetas_continue-09.15.25-06.00.01.sav - 2236429 bytes - 2025-09-15 06:00
-Fabriquetas_continue.sav - 2236429 bytes - 2025-09-15 06:00
+Fabriquetas_continue-09.16.25-06.00.01.sav - 2359333 bytes - 2025-09-16 06:00
+Fabriquetas_continue.sav - 2359333 bytes - 2025-09-16 06:00
 Fabriquetas.sav - 1132046 bytes - 2025-09-11 15:18
 ServerSettings.7777.sav - 4977 bytes - 2025-09-11 15:18
 teste2222.sav - 855677 bytes - 2025-09-09 17:00
@@ -31,9 +32,8 @@ teste.sav - 855666 bytes - 2025-09-09 16:32
 testeultimo.sav - 855681 bytes - 2025-09-09 17:07
 
 === Status do Sistema ===
-Uptime: up 1 week, 3 hours, 15 minutes
+Uptime: up 1 week, 4 hours, 15 minutes
 Uso de disco:
 /dev/sda        157G   23G  127G  16% /
 
 === Últimos Logs de Save ===
-Sep 16 04:24:23 localhost FactoryServer.sh[63762]: [2025.09.16-04.23.59:567][316]LogGame: World Serialization (save): 0.772 seconds (game thread)
