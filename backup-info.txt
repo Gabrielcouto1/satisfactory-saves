@@ -1,14 +1,15 @@
 === Satisfactory Server Backup ===
-Data: Thu Sep 18 10:20:01 PM UTC 2025
+Data: Thu Sep 18 11:20:01 PM UTC 2025
 Servidor: localhost
 Status do serviço: active
 Mundo principal: Ai meu Deus
 
 === Estatísticas dos Saves ===
-Total de arquivos .sav: 26
-Tamanho total: 36M
+Total de arquivos .sav: 27
+Tamanho total: 37M
 
 === Lista de Saves ===
+Agora Vai!!_autosave_0.sav - 178047 bytes - 2025-09-18 23:15
 Ai meu Deus _autosave_0_continue.sav - 1133539 bytes - 2025-09-11 06:00
 Ai meu Deus _autosave_0.sav - 1132738 bytes - 2025-09-11 15:10
 Ai meu Deus _autosave_1_continue.sav - 946812 bytes - 2025-09-10 06:00
@@ -16,9 +17,9 @@ Ai meu Deus _autosave_1.sav - 1132767 bytes - 2025-09-11 15:16
 Ai meu Deus _autosave_2.sav - 1132595 bytes - 2025-09-11 14:55
 Ai meu Deus _continue.sav - 850787 bytes - 2025-09-09 06:00
 a.sav - 860678 bytes - 2025-09-09 20:49
-Fabriquetas_autosave_0.sav - 2581349 bytes - 2025-09-18 22:01
-Fabriquetas_autosave_1.sav - 2581657 bytes - 2025-09-18 22:16
-Fabriquetas_autosave_2.sav - 2580615 bytes - 2025-09-18 21:46
+Fabriquetas_autosave_0.sav - 2581192 bytes - 2025-09-18 22:46
+Fabriquetas_autosave_1.sav - 2581705 bytes - 2025-09-18 23:01
+Fabriquetas_autosave_2.sav - 2581732 bytes - 2025-09-18 22:31
 Fabriquetas_continue-09.13.25-06.00.00.sav - 1555586 bytes - 2025-09-13 06:00
 Fabriquetas_continue-09.14.25-06.00.01.sav - 1768786 bytes - 2025-09-14 06:00
 Fabriquetas_continue-09.15.25-06.00.01.sav - 2236429 bytes - 2025-09-15 06:00
@@ -30,14 +31,14 @@ Fabriquetas.sav - 1132046 bytes - 2025-09-11 15:18
 IndoDevagarPqjaTivePressa_autosave_0.sav - 830537 bytes - 2025-09-18 21:30
 IndoDevagarPqjaTivePressa_autosave_1.sav - 829614 bytes - 2025-09-18 21:30
 IndoDevagarPqjaTivePressa_autosave_2.sav - 828724 bytes - 2025-09-18 21:22
-ServerSettings.7777.sav - 4977 bytes - 2025-09-18 21:30
+ServerSettings.7777.sav - 4977 bytes - 2025-09-18 23:16
 teste2222.sav - 855677 bytes - 2025-09-09 17:00
 testenovo.sav - 855679 bytes - 2025-09-09 17:02
 teste.sav - 855666 bytes - 2025-09-09 16:32
 testeultimo.sav - 855681 bytes - 2025-09-09 17:07
 
 === Status do Sistema ===
-Uptime: up 1 week, 2 days, 20 hours, 15 minutes
+Uptime: up 1 week, 2 days, 21 hours, 15 minutes
 Uso de disco:
 /dev/sda        157G   24G  126G  16% /
 
