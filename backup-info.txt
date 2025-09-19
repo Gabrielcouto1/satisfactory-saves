@@ -1,17 +1,17 @@
 === Satisfactory Server Backup ===
-Data: Fri Sep 19 02:20:01 AM UTC 2025
+Data: Fri Sep 19 03:20:02 AM UTC 2025
 Servidor: localhost
 Status do serviço: active
 Mundo principal: Ai meu Deus
 
 === Estatísticas dos Saves ===
-Total de arquivos .sav: 30
-Tamanho total: 40M
+Total de arquivos .sav: 31
+Tamanho total: 41M
 
 === Lista de Saves ===
-Agora Vai!!_autosave_0.sav - 910909 bytes - 2025-09-19 01:50
-Agora Vai!!_autosave_1.sav - 917475 bytes - 2025-09-19 02:05
-Agora Vai!!_autosave_2.sav - 910815 bytes - 2025-09-19 01:48
+Agora Vai!!_autosave_0.sav - 916998 bytes - 2025-09-19 03:11
+Agora Vai!!_autosave_1.sav - 916968 bytes - 2025-09-19 02:41
+Agora Vai!!_autosave_2.sav - 917022 bytes - 2025-09-19 02:56
 Ai meu Deus _autosave_0_continue.sav - 1133539 bytes - 2025-09-11 06:00
 Ai meu Deus _autosave_0.sav - 1132738 bytes - 2025-09-11 15:10
 Ai meu Deus _autosave_1_continue.sav - 946812 bytes - 2025-09-10 06:00
@@ -33,7 +33,8 @@ Fabriquetas.sav - 1132046 bytes - 2025-09-11 15:18
 IndoDevagarPqjaTivePressa_autosave_0.sav - 830537 bytes - 2025-09-18 21:30
 IndoDevagarPqjaTivePressa_autosave_1.sav - 829614 bytes - 2025-09-18 21:30
 IndoDevagarPqjaTivePressa_autosave_2.sav - 828724 bytes - 2025-09-18 21:22
-save.sav - 910256 bytes - 2025-09-19 00:03
+save-09.19.25-02.26.33.sav - 917530 bytes - 2025-09-19 02:26
+save.sav - 917530 bytes - 2025-09-19 02:26
 ServerSettings.7777.sav - 4977 bytes - 2025-09-18 23:16
 teste2222.sav - 855677 bytes - 2025-09-09 17:00
 testenovo.sav - 855679 bytes - 2025-09-09 17:02
@@ -41,7 +42,7 @@ teste.sav - 855666 bytes - 2025-09-09 16:32
 testeultimo.sav - 855681 bytes - 2025-09-09 17:07
 
 === Status do Sistema ===
-Uptime: up 1 week, 3 days, 15 minutes
+Uptime: up 1 week, 3 days, 1 hour, 15 minutes
 Uso de disco:
 /dev/sda        157G   24G  126G  16% /
 
