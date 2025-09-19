@@ -1,17 +1,18 @@
 === Satisfactory Server Backup ===
-Data: Fri Sep 19 05:20:01 AM UTC 2025
+Data: Fri Sep 19 06:20:01 AM UTC 2025
 Servidor: localhost
 Status do serviço: active
 Mundo principal: Ai meu Deus
 
 === Estatísticas dos Saves ===
-Total de arquivos .sav: 31
-Tamanho total: 41M
+Total de arquivos .sav: 32
+Tamanho total: 42M
 
 === Lista de Saves ===
-Agora Vai!!_autosave_0.sav - 915633 bytes - 2025-09-19 04:41
-Agora Vai!!_autosave_1.sav - 915627 bytes - 2025-09-19 04:56
-Agora Vai!!_autosave_2.sav - 915624 bytes - 2025-09-19 05:11
+Agora Vai!!_autosave_0_continue.sav - 915636 bytes - 2025-09-19 06:00
+Agora Vai!!_autosave_0.sav - 917522 bytes - 2025-09-19 06:15
+Agora Vai!!_autosave_1.sav - 915629 bytes - 2025-09-19 05:41
+Agora Vai!!_autosave_2.sav - 915631 bytes - 2025-09-19 05:56
 Ai meu Deus _autosave_0_continue.sav - 1133539 bytes - 2025-09-11 06:00
 Ai meu Deus _autosave_0.sav - 1132738 bytes - 2025-09-11 15:10
 Ai meu Deus _autosave_1_continue.sav - 946812 bytes - 2025-09-10 06:00
@@ -42,7 +43,7 @@ teste.sav - 855666 bytes - 2025-09-09 16:32
 testeultimo.sav - 855681 bytes - 2025-09-09 17:07
 
 === Status do Sistema ===
-Uptime: up 1 week, 3 days, 3 hours, 15 minutes
+Uptime: up 1 week, 3 days, 4 hours, 15 minutes
 Uso de disco:
 /dev/sda        157G   24G  126G  16% /
 
