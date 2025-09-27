@@ -1,5 +1,5 @@
 === Satisfactory Server Backup ===
-Data: Sat Sep 27 12:20:01 AM UTC 2025
+Data: Sat Sep 27 01:20:01 AM UTC 2025
 Servidor: localhost
 Status do serviço: active
 Mundo principal: Ai meu Deus
@@ -21,15 +21,15 @@ Ai meu Deus _autosave_1.sav - 1132767 bytes - 2025-09-11 15:16
 Ai meu Deus _autosave_2.sav - 1132595 bytes - 2025-09-11 14:55
 Ai meu Deus _continue.sav - 850787 bytes - 2025-09-09 06:00
 a.sav - 860678 bytes - 2025-09-09 20:49
-Fabriquetas_autosave_0.sav - 3002519 bytes - 2025-09-26 23:46
+Fabriquetas_autosave_0.sav - 3000628 bytes - 2025-09-27 01:16
 Fabriquetas_autosave_1_continue-09.22.25-06.00.01.sav - 2818900 bytes - 2025-09-22 06:00
 Fabriquetas_autosave_1_continue-09.23.25-06.00.01.sav - 2811401 bytes - 2025-09-23 06:00
 Fabriquetas_autosave_1_continue-09.24.25-06.00.01.sav - 2835667 bytes - 2025-09-24 06:00
 Fabriquetas_autosave_1_continue-09.25.25-06.00.01.sav - 2907613 bytes - 2025-09-25 06:00
 Fabriquetas_autosave_1_continue-09.26.25-06.00.01.sav - 3001996 bytes - 2025-09-26 06:00
 Fabriquetas_autosave_1_continue.sav - 3001996 bytes - 2025-09-26 06:00
-Fabriquetas_autosave_1.sav - 3003604 bytes - 2025-09-27 00:01
-Fabriquetas_autosave_2.sav - 3001051 bytes - 2025-09-27 00:16
+Fabriquetas_autosave_1.sav - 3000584 bytes - 2025-09-27 00:46
+Fabriquetas_autosave_2.sav - 3000770 bytes - 2025-09-27 01:01
 Fabriquetas_continue-09.13.25-06.00.00.sav - 1555586 bytes - 2025-09-13 06:00
 Fabriquetas_continue-09.14.25-06.00.01.sav - 1768786 bytes - 2025-09-14 06:00
 Fabriquetas_continue-09.15.25-06.00.01.sav - 2236429 bytes - 2025-09-15 06:00
@@ -50,9 +50,8 @@ teste.sav - 855666 bytes - 2025-09-09 16:32
 testeultimo.sav - 855681 bytes - 2025-09-09 17:07
 
 === Status do Sistema ===
-Uptime: up 2 weeks, 3 days, 22 hours, 15 minutes
+Uptime: up 2 weeks, 3 days, 23 hours, 15 minutes
 Uso de disco:
 /dev/sda        157G   26G  124G  17% /
 
 === Últimos Logs de Save ===
-Sep 27 00:03:34 localhost FactoryServer.sh[63762]: [2025.09.27-00.01.33:417][642]LogGame: World Serialization (save): 0.829 seconds (game thread)
